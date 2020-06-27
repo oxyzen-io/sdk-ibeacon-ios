@@ -39,7 +39,7 @@ copy; or (d) rent, lease or lend the SDK.
 (3) USE OF THE SERVICES. Your use of ZBeaconKit, and the use of ZBeaconKit 
 by anyone hosting or using your Authorized Application, is governed by the 
 then-current Terms of Services (“TOS”) for Walk Insights which can be found 
-at: [https://walkinsights.com/terms_of_services/basic]. 
+at: [https://wi.oxyzen.io/terms_of_services/basic]. 
 
 (4) FEEDBACK. By submitting feedback to ZOYI, either via email at [feedback@zoyi.io]
  or by any other means: you automatically grant to ZOYI a perpetual, irrevocable, 
